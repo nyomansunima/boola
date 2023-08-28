@@ -2,6 +2,7 @@
   "name": "boola",
   "version": "1.0.0",
   "displayName": "Boola Theme",
+  "publisher": "nyomansunima",
   "description": "Best of theme for your day and night",
   "keywords": [
     "visual studio code",
@@ -16,6 +17,24 @@
   "categories": [
     "Themes"
   ],
+  "author": {
+    "email": "nyomansunima@gmail.com",
+    "name": "Nyoman Sunima",
+    "url": "https://nyomansunima.com"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "icon": "./assets/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nyomansunima/boola"
+  },
+  "bugs": {
+    "url": "https://github.com/nyomansunima/boola/issues",
+    "email": "nyomansunima@gmail.com"
+  },
+  "homepage": "https://github.com/nyomansunima/boola",
   "contributes": {
     "themes": [
       {
