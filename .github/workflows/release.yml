@@ -26,7 +26,7 @@ jobs:
           registry-url: https://registry.npmjs.org/
 
       - name: Install VSCE
-        run: npm i -g vsce
+        run: npm i -g @vscode/vsce
 
       - name: Publish the package
         run: vsce publish -p ${{secrets.VSCE_PAT}}
