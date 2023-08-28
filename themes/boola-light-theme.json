@@ -457,17 +457,4 @@
       }
     }
   ]
-  // "semanticHighlighting": true,
-  // "semanticTokenColors": {
-  //   "property.declaration": { "foreground": "#bdb6d3" },
-  //   "property": { "foreground": "#ffae82" },
-  //   "variable": { "foreground": "#ff8ea0" },
-  //   "variable.defaultLibrary": { "foreground": "#44f8e9" },
-  //   "class.declaration": { "foreground": "#c39eff" },
-  //   "namespace": { "foreground": "#8ad0ff" },
-  //   "parameter": { "foreground": "#fda7f7" },
-  //   "class.decorator": { "foreground": "#fda7f7" },
-  //   "meta.decorator": { "foreground": "#fda7f7" },
-  //   "enumMember": { "foreground": "#c39eff" }
-  // }
 }
