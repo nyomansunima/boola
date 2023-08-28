@@ -1,6 +1,6 @@
 {
   "name": "boola",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "Boola Theme",
   "publisher": "nyomansunima",
   "description": "Best of theme for your day and night",
@@ -25,7 +25,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "icon": "./assets/icon.png",
+  "icon": "assets/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/nyomansunima/boola"
