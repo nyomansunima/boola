@@ -1,0 +1,33 @@
+{
+  "name": "boola",
+  "version": "1.0.0",
+  "displayName": "Boola Theme",
+  "description": "Best of theme for your day and night",
+  "keywords": [
+    "visual studio code",
+    "themes",
+    "light",
+    "dark",
+    "boola"
+  ],
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Boola Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/boola-light-theme.json"
+      },
+      {
+        "label": "Boola Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/boola-dark-theme.json"
+      }
+    ]
+  }
+}
