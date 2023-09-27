@@ -464,19 +464,19 @@
     {
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#4033b7"
+        "foreground": "#1f1b3c"
       }
     },
     {
       "scope": "string.quoted.double.json",
       "settings": {
-        "foreground": "#411866"
+        "foreground": "#453085"
       }
     },
     {
       "scope": ["constant.language.json", "constant.character.escape.json"],
       "settings": {
-        "foreground": "#f670eb"
+        "foreground": "#e449d7"
       }
     },
     {

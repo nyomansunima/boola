@@ -1,6 +1,6 @@
 {
   "name": "boola",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "displayName": "Boola Theme",
   "publisher": "nyomansunima",
   "description": "Best of theme for your day and night",
@@ -38,12 +38,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Boola Theme Light",
+        "label": "Boola Light",
         "uiTheme": "vs",
         "path": "./themes/boola-light-theme.json"
       },
       {
-        "label": "Boola Theme Dark",
+        "label": "Boola Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/boola-dark-theme.json"
       }
