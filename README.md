@@ -1,6 +1,6 @@
-<!-- PROJECT INFO -->
+# Boola - Best Day & Night Visual Studio Code Theme
 
-![Github preview Banner](https://github.com/nyomansunima/boola/assets/54091887/0cc62832-bccd-4bc2-afa2-6d049a71d815)
+_Confortable day and night visual studio code theme_
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/nyomansunima/boola?color=pink&label=Code%20Size)
 ![GitHub all releases](https://img.shields.io/github/downloads/nyomansunima/boola/total)
@@ -9,21 +9,17 @@
 ![GitHub](https://img.shields.io/github/license/nyomansunima/boola)
 ![GitHub contributors](https://img.shields.io/github/contributors/nyomansunima/boola?color=green)
 
----
+[🐛 Issues](https://github.com/nyomansunima/boola/issues)
 
-<br/>
+## Screenshots
 
-# Boola
+![Dark](https://raw.githubusercontent.com/nyomansunima/boola/main/assets/screenshot-dark.png)
 
-**Confortable day and night visual studio code theme**
+![Light](https://raw.githubusercontent.com/nyomansunima/boola/main/assets/screenshot-light.png)
 
-<br/>
+## Recomended settings
 
-[**🐛 Issues**](https://github.com/nyomansunima/boola/issues) . [**🚀 View Demo**](https://digihub.sonibble.com)
-
-<br/>
-
-<!-- ABOUT -->
+- [Symbol Icon](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
 
 ## ✋ About
 
